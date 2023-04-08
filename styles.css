@@ -138,3 +138,14 @@ footer {
   margin-top: 1rem;
   
 }
+
+.social-icon {
+  color: #0e76a8;
+  font-size: 2rem;
+  margin-right: 1rem;
+  transition: color 0.3s;
+}
+
+.social-icon:hover {
+  color: #00a0dc;
+}
