@@ -183,3 +183,25 @@ nav a:hover {
   color: rgba(255, 255, 255, 0.7);
 }
 
+
+#backToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #555;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#backToTop:hover {
+  background-color: #444;
+}
+
+
