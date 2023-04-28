@@ -1,6 +1,6 @@
 # Capstone Project Website
 
-The Capstone Project Website is a comprehensive and engaging platform that showcases information about the capstone project, the team members, and how users can get in touch for further information. Built using HTML, CSS, and JavaScript, the website provides an attractive and responsive design that works seamlessly across various devices.
+The Capstone Project Website is a comprehensive and engaging platform that showcases information about the capstone project, the team members, and how users can get in touch for further information. Built using HTML, CSS, and JavaScript.
 
 ## Features
 
